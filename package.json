@@ -1,0 +1,21 @@
+{
+  "name": "labo3_german_herrera",
+  "version": "1.0.0",
+  "description": "Labo German Herrera",
+  "main": "monApp.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.14",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HERRERA German",
+  "license": "ISC"
+}
